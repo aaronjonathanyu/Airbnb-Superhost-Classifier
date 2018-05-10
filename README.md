@@ -12,20 +12,20 @@ Reinvent the Superhost system by utilizing review data to identify Superhosts
 
 ### Key Business Insights
  
-Identify what global travelers want
-Learn from Host / Guest interactions
-Monetize guest’s insights
-Identify Superhost traits
-Identify areas of improvement within airbnb’s product line
+Identify what global travelers want  
+Learn from Host / Guest interactions  
+Monetize guest’s insights  
+Identify Superhost traits  
+Identify areas of improvement within airbnb’s product line  
 
 
 ### Modeling
 
-Multinomial Naive Bayes
-Logistic Regression
-Random Forest
-Gradient Boosting
-LinearSVC
+Multinomial Naive Bayes  
+Logistic Regression  
+Random Forest  
+Gradient Boosting  
+LinearSVC  
 
 
 ### Results
