@@ -1,4 +1,4 @@
-![Airbnb Logo?](images/arbnblogo.png)
+![Airbnb](images/airbnblogo.png)
 
 
 # Airbnb-Superhost-Classifier
