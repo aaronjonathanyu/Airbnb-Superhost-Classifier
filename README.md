@@ -16,11 +16,9 @@
 
 ![process](images/setup_process.png)
 
-
 ### Modeling
 
 ![Modeling](images/models.png)
-
 
 ### Results
 
@@ -38,10 +36,10 @@ This false positive is an example of others who are missed by airbnb's current s
 
 ### Conclusion
 
-Utilizing my best model (Tf-idfVectorizer + Gradient Boosting), I was able to make predictions on a hold out set. I validated the test results by checking them against ratings, reviews, response rate, activity, and superhost status. One key item that I took a deeper look into were the false positives. The false positives are hosts that are not labeled superhosts but the model identifies as superhost. These listing are important to take note of because they offer an opportunity for people looking for an awesome deal since they have great reviews, ratings, and typically are cheaper than their superhost counterparts. 
-
+This project was a very interesting dive into reviews and how we can use them to help find insights for both business applications as well as research purposes. Through this project, I was able to learn many things such as seting up a cloud computing server to run my models, cleaning text, featurizing text, and extracting other information from text data. I was able to grow and stengthen my NLP & modeling skills as well as develop business insights. Overall I would like to think this project was a sucess as I was able to idenfity Superhost from regular host with a ~86.7% accuracy.
 
 ### Sources
-
+*Thanks to the following websties & packages!*
 
 * [insideAirbnb Dataset](http://insideairbnb.com/)
+* [langdetect Package for Python (Very Handy in Identifying Foreign Language)](https://github.com/Mimino666/langdetect)
