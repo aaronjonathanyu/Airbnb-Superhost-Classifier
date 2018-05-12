@@ -16,15 +16,14 @@ Monetize guest’s insights
 Identify Superhost traits  
 Identify areas of improvement within airbnb’s product line
 
+### Dataset
+
+![dataset](images/dataset_info.png)
 
 ### Process & Setup
 
 ![process](images/setup_process.png)
 
-
-### Dataset
-
-![dataset](images/dataset_info.png)
 
 ### Modeling
 
