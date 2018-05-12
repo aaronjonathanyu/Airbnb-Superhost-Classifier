@@ -2,9 +2,8 @@
 
 
 # Airbnb Superhost Classifier
-## Reinvent the Superhost system by utilizing review data to identify Superhosts
 
-![title](images/title_slide.png)
+![title](images/title.png)
 
 ### Objective
 
