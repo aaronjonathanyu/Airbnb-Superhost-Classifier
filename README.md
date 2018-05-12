@@ -8,13 +8,9 @@ Reinvent the Superhost system by utilizing review data to identify Superhosts
 
 Creatre a classifier to determine if someone is a Superhost or not for Airbnb listings based on reviews
 
-### Key Business Insights
+### Problem & Solution (Key Business Insights)
  
-Identify what global travelers want  
-Learn from Host / Guest interactions  
-Monetize guest’s insights  
-Identify Superhost traits  
-Identify areas of improvement within airbnb’s product line
+![problem_solution](images/problem_solution.png)
 
 ### Dataset
 
