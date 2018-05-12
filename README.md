@@ -23,18 +23,12 @@ Creatre a classifier to determine if someone is a Superhost or not for Airbnb li
 
 ### Modeling
 
-Multinomial Naive Bayes  
-Logistic Regression  
-Random Forest  
-Gradient Boosting  
-LinearSVC  
+![Modeling](images/models.png)
 
 
 ### Results
 
-Tf-idfVectorizer + Gradient Boosting Classifier + GridsearchCV 
-86.7% Accuracy (9% + baseline model)
-
+![final_model](images/final_model.png)
 
 ### Conclusion
 
