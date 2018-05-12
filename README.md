@@ -1,8 +1,3 @@
-![Airbnb](images/airbnblogo.png)
-
-
-# Airbnb Superhost Classifier
-
 ![title](images/title.png)
 
 ### Objective
