@@ -15,8 +15,17 @@ Identify what global travelers want
 Learn from Host / Guest interactions  
 Monetize guest’s insights  
 Identify Superhost traits  
-Identify areas of improvement within airbnb’s product line  
+Identify areas of improvement within airbnb’s product line
 
+
+### Process & Setup
+
+![process](images/setup_process.png)
+
+
+### Dataset
+
+![dataset](images/dataset_info.png)
 
 ### Modeling
 
