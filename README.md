@@ -2,11 +2,13 @@
 
 
 # Airbnb Superhost Classifier
-Reinvent the Superhost system by utilizing review data to identify Superhosts
+## Reinvent the Superhost system by utilizing review data to identify Superhosts
+
+![title](images/title_slide.png)
 
 ### Objective
 
-Creatre a classifier to determine if someone is a Superhost or not for Airbnb listings based on reviews
+#### Create a classifier to determine if someone is a Superhost or not for Airbnb listings based on reviews
 
 ### Problem & Solution (Key Business Insights)
  
