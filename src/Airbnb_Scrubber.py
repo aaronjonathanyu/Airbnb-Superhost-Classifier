@@ -234,26 +234,4 @@ def df_combined_tojson(df_combined_file):
     df_combined = pd.read_json('final_files/df_combined.json', orient='split')
 
 
-#####################################################################
-#  Step 11: create  "nlp"
-#####################################################################
 
-# def df_combined_tojson(df_combined.json):
-#     '''
-#         Input : Read in df_combined
-#         Output: df_combined to a json file
-#     '''
-#     df_combined = pd.read_json('final_files/df_combined.json', orient='split')
-
-
-
-#####################################################################
-#  Step 2: create 'fraud_no_fraud'
-#####################################################################
-def scrub_fraud_no_fraud(df):
-    '''
-        Input : pass in a dataframe
-        Output: returns a series of Booleans based on 'acct_type'
-    '''
-    df['fraud_no_fraud'] = df['acct_type'].astype(str).str[:5] == 'fraud'
-    return df['fraud_no_fraud']
